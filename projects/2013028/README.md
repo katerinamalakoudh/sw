@@ -187,8 +187,7 @@ https://www140.lunapic.com/ :
 
 
 Τέλος , ένα site το οποίο χρησιμοποιήθηκε για να
-αντιστρέψω το sprite μου μέσω της επιλογής Adjust
-> Mirror.
+αντιστρέψω το sprite μου μέσω της επιλογής Adjust-> Mirror.
 
 
 
@@ -198,8 +197,7 @@ https://www140.lunapic.com/ :
  
 
 
-               Διαδικασία ανάπτυξης
-της εργασίας
+               Διαδικασία ανάπτυξης της εργασίας
 
 
  
@@ -244,14 +242,13 @@ tiles
 μου τρώει dot.
 
 
-Screenshot
-του παιχνιδιού
+Screenshot του παιχνιδιού
 
 
  
 
 
- 
+ https://github.com/katerinamalakoudh/pacman/blob/master/assets/Screenshot_3.png
 
 
  
